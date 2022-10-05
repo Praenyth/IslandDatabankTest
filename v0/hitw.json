@@ -3,6 +3,6 @@
     "eliminated": "Eliminated"
   },
   "chatStrings": {
-    "wallSpeedIncreased": "Wall difficulty increased!"
+    "wallDifficultyIncrease": "Wall difficulty increased!"
   }
 }
