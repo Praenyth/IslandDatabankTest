@@ -1,5 +1,5 @@
 # Island Databank Schema v0
-#### This fork has the Regex strings from the original and strings for "contains".
+#### This fork has the Regex strings from the original and strings for "contains" (When needed, of course).
 ## Global
 * `titles` *(object)*: Contains different titles that are the same in all minigames.
 	* `gameOver`*(regex)*: "Game Over"-title.
