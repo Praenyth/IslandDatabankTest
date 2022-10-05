@@ -11,7 +11,7 @@
 * `titles` *(object)*: Contains different titles that appear in Hole in the Wall.
 	* `eliminated` *(regex)*: Title that appears to you when you jump off the platform.
 * `chatStrings` *(object)*: Contains system chat messages that appear in Hole in the Wall.
-	* `wallDifficultyIncrease` *(regex)*: Message that appears when the wall difficulty increases during the game.
+	* `wallDifficultyIncrease` *(regex and contains)*: Message that appears when the wall difficulty increases during the game.
 ### Sky Battle
 #### Properties
 * `titles` *(object)*: Contains different titles that appear in Sky Battle.
