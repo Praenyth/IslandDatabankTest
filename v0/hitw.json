@@ -3,6 +3,9 @@
     "eliminated": "Eliminated"
   },
   "chatStrings": {
-    "wallDifficultyIncrease": "Wall difficulty increased!"
+    "wallDifficultyIncrease": {
+      "regex": "[.] Wall difficulty increased!"
+      "contains": "Wall difficulty increased!"
+    }
   }
 }
